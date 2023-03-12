@@ -47,16 +47,15 @@ After importing the project to STS, run a `maven clean install`
 
 Testing the api can easily be done by going to `http://localhost:8080/swagger-ui/#/application-rest-controller` after starting the program in STS.
 
-Testing in Swagger (With sample request)
-`
-	![alt text](sample-request-swagger.png)
-`
+Sample Request in Swagger
 
-Response in Swagger
+![](sample-request-swagger.png)
 
-`
-	![alt text](sample-response-swagger.png)
-`
+
+Sample Response in Swagger
+
+![](sample-response-swagger.png)
+
 
 ## Deployment
 
